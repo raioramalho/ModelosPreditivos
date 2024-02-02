@@ -1,3 +1,4 @@
 .env
 /pdf/*.pdf
 *.pdf
+regulamentos/*
